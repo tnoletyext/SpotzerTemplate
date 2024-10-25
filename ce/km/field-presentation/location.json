@@ -84,7 +84,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "D�tails de l\u0027entreprise"
+          "value": "Détails de l\u0027entreprise"
         }
       ],
       "entryType": "SECTION",
@@ -151,7 +151,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "M�dias"
+          "value": "Médias"
         }
       ],
       "entryType": "SECTION",
@@ -172,7 +172,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Comptes li�s"
+          "value": "Comptes liés"
         }
       ],
       "entryType": "SECTION",
@@ -193,7 +193,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "R�seaux sociaux"
+          "value": "Réseaux sociaux"
         }
       ],
       "entryType": "SECTION",
@@ -227,7 +227,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Listes de contenu optimis�es"
+          "value": "Listes de contenu optimisées"
         }
       ],
       "entryType": "SECTION"
@@ -238,7 +238,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Caract�ristiques suppl�mentaires"
+          "value": "Caractéristiques supplémentaires"
         }
       ],
       "entryType": "SECTION"
@@ -258,7 +258,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Horaires suppl�mentaires"
+          "value": "Horaires supplémentaires"
         }
       ],
       "entryType": "DIVIDER"
@@ -269,7 +269,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Accessibilit�"
+          "value": "Accessibilité"
         }
       ],
       "entryType": "SECTION",
@@ -335,7 +335,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Vente � emporter et livraison"
+          "value": "Vente é emporter et livraison"
         }
       ],
       "entryType": "SECTION",
@@ -356,7 +356,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Sp�cifique � l\u0027annuaire"
+          "value": "Spécifique é l\u0027annuaire"
         }
       ],
       "entryType": "DIVIDER"
@@ -367,7 +367,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Champs de fiche d\u0027�tablissement Google"
+          "value": "Champs de fiche d\u0027établissement Google"
         }
       ],
       "entryType": "SECTION",
@@ -404,7 +404,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Caract�ristiques Google Business Profile"
+          "value": "Caractéristiques Google Business Profile"
         }
       ],
       "entryType": "SECTION"
@@ -620,7 +620,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Param�tres"
+          "value": "Paramétres"
         }
       ],
       "entryType": "DIVIDER"
